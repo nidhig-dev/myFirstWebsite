@@ -16,3 +16,9 @@ background
 
 
 text color
+
+
+
+# First emoji added
+
+&#128512;
